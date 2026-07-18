@@ -73,7 +73,7 @@ The system consists of multiple modules:
 
 **1️⃣ Clone Repository:**
 
-git clone https://github.com/yashi7421/Advanced-Assistive-Brain-Controlled-Smart-Wheelchair.git
+git clone https://github.com/pranav-31003/Advanced-Assistive-Brain-Controlled-Smart-Wheelchair
 cd Advanced-Assistive-Brain-Controlled-Smart-Wheelchair
 
 **2️⃣ Hardware Setup:**
